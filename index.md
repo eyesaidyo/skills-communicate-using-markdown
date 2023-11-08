@@ -5,3 +5,6 @@
 ```
 console.log('ra')
 ```
+- [x] headers done
+- [x] image done
+- [x] checklist done
